@@ -17,23 +17,9 @@
 
 .BG_lightFooter{background-color: var(--lightFooter);}
 
-
-.section1{
-    min-height: 710px;
-}
-
-.section2{
-    min-height: 1036px;
-}
-
-.section3{
-    min-height: 594px;
-}
-
-.section4{
-    min-height: 830px;
-}
-
-.sectionFooter{
-    min-height: 415px;
+.line{
+    height: 0.2rem;
+    border-radius: 10px;
+    width: 9rem;
+    background-color: white;
 }
