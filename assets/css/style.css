@@ -1,0 +1,39 @@
+:root{
+    --navbarColor:#2c3e50 ;
+    --oneSection: #1abc9c ;
+    --lightFooter:#3a546d ;   
+    --oneSquere:  #ba4b63 ;
+    --twoSquere:  #1ea4b6 ;
+    --threeSquere:#140f0f ;
+    --fourSquere: #1c83c1 ;
+    --fiveSquere: #0e38b5 ;
+    --sixSquere:  #ccb2a3 ;
+}
+
+
+.BG_navbar{background-color: var(--navbarColor);}
+
+.BG_section{background-color: var(--oneSection);}
+
+.BG_lightFooter{background-color: var(--lightFooter);}
+
+
+.section1{
+    min-height: 710px;
+}
+
+.section2{
+    min-height: 1036px;
+}
+
+.section3{
+    min-height: 594px;
+}
+
+.section4{
+    min-height: 830px;
+}
+
+.sectionFooter{
+    min-height: 415px;
+}
